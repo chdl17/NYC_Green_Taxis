@@ -23,6 +23,8 @@ From the analysis, the following insights were obtained:
 2. **Consistent High Volume**: The trip volume remains high from 5 PM to 8 PM, indicating these are the busiest hours for NYC Green Taxis.
 3. **Midday and Late Night Trends**: There is lower activity during midday and late night hours, suggesting lower demand during these times.
 
+![Insight Report](Insight_Report.png)
+
 ## Visualization
 The report includes a bar chart visualization named "Trip Volume by Hour of the Day (2014-2023) NYC Green Trips." This chart provides a clear visual representation of the hourly trip volumes for both pickups and drop-offs.
 
