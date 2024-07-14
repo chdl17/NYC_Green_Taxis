@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes the trip volume of NYC Green Taxis from 2014 to 2023. The primary focus is to identify peak hours for pickups and drop-offs to optimize taxi availability and improve service efficiency.
 
+## Dataset is taken from GCP Public Datasets:
+[Link to the Public Dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-tlc-trips)
+
 ## Report Link
 You can view the full report here: [Trip Volume by Hour of the Day (2014-2023) NYC Green Trips](https://lookerstudio.google.com/s/nuM3FsHUwg4)
 
@@ -23,8 +26,8 @@ From the analysis, the following insights were obtained:
 ## Visualization
 The report includes a bar chart visualization named "Trip Volume by Hour of the Day (2014-2023) NYC Green Trips." This chart provides a clear visual representation of the hourly trip volumes for both pickups and drop-offs.
 
-### Example Chart
-![Chart Example](path_to_query_execution.png)
+### SQL_Execution_Plan in GCP BigQuery
+![SQL_Execution](Query_Execution_Plan.png)
 
 ## How to Use
 1. **Review the Report**: Visit the [report link](https://lookerstudio.google.com/s/nuM3FsHUwg4) to review the interactive analysis.
