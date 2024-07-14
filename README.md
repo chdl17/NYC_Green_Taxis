@@ -1,5 +1,5 @@
 # NYC Green Taxi Trip Analysis (2014-2023)
-
+![NYC TLC Green Cabs](green-cab.png)
 ## Overview
 This project analyzes the trip volume of NYC Green Taxis from 2014 to 2023. The primary focus is to identify peak hours for pickups and drop-offs to optimize taxi availability and improve service efficiency.
 
